@@ -1,1 +1,1 @@
-https://github.com/Graimcer/zakrivayuschiy-teg
+Ссылка: https://github.com/Graimcer/zakrivayuschiy-teg
